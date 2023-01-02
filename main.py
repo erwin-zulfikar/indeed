@@ -2,6 +2,7 @@ import os
 import requests
 from bs4 import BeautifulSoup
 
+# url
 url = 'https://www.indeed.com/jobs?'
 params = {
     'q': 'Python Developer',
